@@ -1,3 +1,5 @@
+![frame_9.png](frame_9.png)
+
 # Reflex and Multi-Agent Search Strategies for Game AI Rolit
 
 This repository contains a Python implementation of various artificial intelligence (AI) strategies for game agents, focusing on reflex agents and multi-agent search techniques. The project demonstrates the application of these strategies in a game setting, where agents must make decisions based on the game's state to achieve their objectives. Below is a detailed overview of the components and functionalities of this project.
